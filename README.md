@@ -8,3 +8,4 @@ It assumes you have a newly created VM.
 - `cd openedx_installation_ubuntu`
 - `chmod +x openedx_install.sh`
 - `sudo ./openedx_install.sh`
+
