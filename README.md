@@ -1,4 +1,4 @@
-# openedx_installation_ubuntu
+# About
 This is a compiled version of installing OpenEdx via Tutor on Ubuntu 20.04
 It assumes you have a newly created VM.
 
